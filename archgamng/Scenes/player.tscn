@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://cqgulog3gpc8p"]
+
+[ext_resource type="PackedScene" uid="uid://dlwgfe0dm427i" path="res://Assets/3D/omgitprotamaism4.glb" id="1_cvnsp"]
+[ext_resource type="Script" uid="uid://c30jn1hc4hmbi" path="res://Scenes/Scripts/player.gd" id="2_6t5aa"]
+
+[node name="omgitprotamaism4" instance=ExtResource("1_cvnsp")]
+script = ExtResource("2_6t5aa")
